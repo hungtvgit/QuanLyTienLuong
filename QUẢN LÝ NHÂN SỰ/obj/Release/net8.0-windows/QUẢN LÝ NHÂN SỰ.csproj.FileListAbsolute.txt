@@ -1,0 +1,86 @@
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\QUẢN LÝ NHÂN SỰ.exe
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\QUẢN LÝ NHÂN SỰ.deps.json
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\QUẢN LÝ NHÂN SỰ.runtimeconfig.json
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\QUẢN LÝ NHÂN SỰ.dll
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\QUẢN LÝ NHÂN SỰ.pdb
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\ClosedXML.dll
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\EntityFramework.dll
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\RBush.dll
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\System.Data.SQLite.dll
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\System.IO.Packaging.dll
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\QUẢN LÝ NHÂN SỰ.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\QUẢN_LÝ_NHÂN_SỰ.Form1.resources
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\QUẢN_LÝ_NHÂN_SỰ.Properties.Resources.resources
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\QUẢN_LÝ_NHÂN_SỰ.ShowBangLuongMoi.resources
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\QUẢN_LÝ_NHÂN_SỰ.themHoSo.resources
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\QUẢN LÝ NHÂN SỰ.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\QUẢN LÝ NHÂN SỰ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\QUẢN LÝ NHÂN SỰ.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\QUẢN LÝ NHÂN SỰ.AssemblyInfo.cs
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\QUẢN LÝ NHÂN SỰ.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\QU_N L_ .AE4509E7.Up2Date
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\QUẢN LÝ NHÂN SỰ.dll
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\refint\QUẢN LÝ NHÂN SỰ.dll
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\QUẢN LÝ NHÂN SỰ.pdb
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\QUẢN LÝ NHÂN SỰ.genruntimeconfig.cache
+C:\Users\admin\Desktop\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\ref\QUẢN LÝ NHÂN SỰ.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\QUẢN LÝ NHÂN SỰ.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\QUẢN_LÝ_NHÂN_SỰ.Form1.resources
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\QUẢN_LÝ_NHÂN_SỰ.Properties.Resources.resources
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\QUẢN_LÝ_NHÂN_SỰ.ShowBangLuongMoi.resources
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\QUẢN_LÝ_NHÂN_SỰ.themHoSo.resources
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\QUẢN LÝ NHÂN SỰ.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\QUẢN LÝ NHÂN SỰ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\QUẢN LÝ NHÂN SỰ.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\QUẢN LÝ NHÂN SỰ.AssemblyInfo.cs
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\QUẢN LÝ NHÂN SỰ.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\QUẢN LÝ NHÂN SỰ.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\QUẢN LÝ NHÂN SỰ.pdb
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\QUẢN LÝ NHÂN SỰ.exe
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\QUẢN LÝ NHÂN SỰ.deps.json
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\QUẢN LÝ NHÂN SỰ.runtimeconfig.json
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\QUẢN LÝ NHÂN SỰ.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\QUẢN LÝ NHÂN SỰ.pdb
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\ClosedXML.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\EntityFramework.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\RBush.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\System.IO.Packaging.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\QU_N L_ .AE4509E7.Up2Date
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\refint\QUẢN LÝ NHÂN SỰ.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\QUẢN LÝ NHÂN SỰ.genruntimeconfig.cache
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\obj\Release\net8.0-windows\ref\QUẢN LÝ NHÂN SỰ.dll

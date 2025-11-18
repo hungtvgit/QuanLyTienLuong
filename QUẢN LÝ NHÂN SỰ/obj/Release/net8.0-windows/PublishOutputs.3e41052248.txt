@@ -1,0 +1,27 @@
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\publish\QUẢN LÝ NHÂN SỰ.exe
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\publish\QUẢN LÝ NHÂN SỰ.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\publish\QUẢN LÝ NHÂN SỰ.deps.json
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\publish\QUẢN LÝ NHÂN SỰ.runtimeconfig.json
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\publish\QUẢN LÝ NHÂN SỰ.pdb
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\publish\ClosedXML.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\publish\ClosedXML.Parser.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\publish\DocumentFormat.OpenXml.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\publish\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\publish\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\publish\EntityFramework.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\publish\ExcelNumberFormat.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\publish\RBush.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\publish\SixLabors.Fonts.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\publish\System.Data.SQLite.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\publish\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\publish\System.Data.SQLite.EF6.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\publish\System.IO.Packaging.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\publish\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\publish\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\publish\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\publish\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\publish\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\publish\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\QUẢN LÝ NHÂN SỰ\QUẢN LÝ NHÂN SỰ\bin\Release\net8.0-windows\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
